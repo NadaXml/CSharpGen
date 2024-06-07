@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeGen", "ExchangeGen\ExchangeGen.csproj", "{073F577A-BFEF-4B99-9EDE-95EDE5A2A1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeGenConsole", "ExchangeGenConsole\ExchangeGenConsole.csproj", "{5FFAFC8F-5700-4500-B24E-A145144C8078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073F577A-BFEF-4B99-9EDE-95EDE5A2A1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073F577A-BFEF-4B99-9EDE-95EDE5A2A1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073F577A-BFEF-4B99-9EDE-95EDE5A2A1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073F577A-BFEF-4B99-9EDE-95EDE5A2A1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFAFC8F-5700-4500-B24E-A145144C8078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFAFC8F-5700-4500-B24E-A145144C8078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFAFC8F-5700-4500-B24E-A145144C8078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFAFC8F-5700-4500-B24E-A145144C8078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
